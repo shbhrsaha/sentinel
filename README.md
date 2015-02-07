@@ -23,7 +23,3 @@ In the event that a course fills up, most students then log on to [Princeton Pou
 For the Fall 2013 semester, I was disappointed to get into just two of the five courses I wanted. I turned to Python for a solution.
 
 Sentinel is a Python script that, like Princeton Pounce, watches for opportunities in course enrollment, but then also automatically enrolls you in the course by logging onto SCORE faster than other students can by themselves. This script is super-useful to keep running on your computer during the course enrollment period and the first week of the semester, when many students drop courses. With some modification, Sentinel can enroll you in all your courses at the beginning of the course enrollment period as well.
-
-Splinter for Browser Control
----
-Personally, developing Splinter was a good exercise in using [Splinter](http://splinter.cobrateam.info/) for stateful web-browsing. I initially tried to use the popular [Mechanize](http://wwwsearch.sourceforge.net/mechanize/) library, but was disappointed to learn it didn't support Javascript. I find Splinter a joy to use.
